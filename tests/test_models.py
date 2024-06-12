@@ -1,5 +1,5 @@
 import unittest
-from models.author import Author
+from models.article import Author
 from models.article import Article
 from models.magazine import Magazine
 
